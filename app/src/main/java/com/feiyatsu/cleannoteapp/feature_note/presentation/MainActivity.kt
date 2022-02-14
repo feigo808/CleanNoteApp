@@ -1,7 +1,8 @@
-package com.feiyatsu.cleannoteapp
+package com.feiyatsu.cleannoteapp.feature_note.presentation
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.feiyatsu.cleannoteapp.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
