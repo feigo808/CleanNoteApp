@@ -22,4 +22,3 @@ fun CleanArchitectureNoteAppTheme(darkTheme: Boolean = true, content: @Composabl
         content = content
     )
 }
-
